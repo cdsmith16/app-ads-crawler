@@ -1,0 +1,95 @@
+tappx.com, 30567, DIRECT, 9f375a07da0318ectappx.com, 29703, DIRECT, 9f375a07da0318ecadmixer.net, 1a82e13e-6ff3-4d31-8701-2ea12cd1f95a, RESELLERappnexus.com, 3703, RESELLER, f5ab79cb980f11d1appnexus.com, 9569, RESELLERbizzclick.net, 41, RESELLERcontextweb.com, 560288, RESELLER, 89ff185a4c4e857ccontextweb.com, 560911, RESELLER, 89ff185a4c4e857cgothamads.com, 186, RESELLERkumma.com, 73935, RESELLERlkqd.net, 469, RESELLER, 59c49fa9598a0117mobileadtrading.com, 22e05f7ebe306de4264547efff1b40e8, RESELLER, afbbacfd95716fd4openx.com, 537149888, RESELLER, 6a698e2ec38604c6pubmatic.com, 154037, RESELLERpubmatic.com, 156435, RESELLER, 5d62403b186f2acepubmatic.com, 156439, RESELLERpubmatic.com, 92509, RESELLER, 5d62403b186f2acepubnative.net, 1006523, RESELLERpubnative.net, 1006675, RESELLERrubiconproject.com, 13856, RESELLER, 0bfd66d529a55807rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807smartadserver.com, 1692, RESELLERsomoaudience.com, 22e05f7ebe306de4264547efff1b40e8, RESELLER, afbbacfd95716fd4sovrn.com, 257611, RESELLER, fafdf38b16bf6b2bfacebook.com, 1845270089093925, RESELLER
+inmobi.com, 9da0c000310640d0903a855cf2fe20b6, DIRECT, 83e75a7ae333ca9d
+inmobi.com, 4885, DIRECT, 83e75a7ae333ca9d
+tremorhub.com, 9lmvl-6ojd3, RESELLER, 1a4e959a1b50034a
+aol.com, 26807, DIRECT, e1a5b5b6e3255540
+triplelift.com, 3410, DIRECT, 6c33edb13117fd86
+xad.com, 767, RESELLER, 81cbf0a75a5e0e9a
+xad.com, 1190, RESELLER, 81cbf0a75a5e0e9a
+smartadserver.com,3232,RESELLER
+indexexchange.com, 184738, RESELLER
+smaato.com, 1100036893, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+groundtruth.com, 241, RESELLER, 81cbf0a75a5e0e9a
+indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6
+pokkt.com, 5886, RESELLER, c45702d9311e25fd 
+pubmatic.com, 156149, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156389, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156424, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace 
+rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
+smartadserver.com, 3117, RESELLER
+somoaudience.com, e0ac315e5cd7f6977fe44dbd2d4676ea, RESELLER, afbbacfd95716fd4
+mobfox.com, 74005, DIRECT 
+mobfox.com, 80788, DIRECT 
+admanmedia.com, 5, RESELLER, 11
+admixer.net, 3f77a1dd-9fe0-4634-8a29-3412895010c2, RESELLER
+advertising.com, 26249, RESELLER
+appnexus.com, 2637, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2850, RESELLER, f5ab79cb980f11d1
+axonix.com, 56328, RESELLER
+beachfront.com, 2558, RESELLER
+cmcm.com, 60, RESELLER
+contextweb.com, 560091, RESELLER, 89ff185a4c4e857c
+engagebdr.com, 10116, RESELLER
+epom.com, ba87ca3-5f7b-4cfd-93bb-8181e1c0c519, RESELLER
+gothamads.com, 31, RESELLER, 3c34fd356ef5
+gothamads.com, 405, RESELLER, 28119a85c6c2
+gothamads.com, 406, RESELLER, 42e22eed8da2
+gothamads.com, 65, RESELLER, 3554a4fdf6fb
+lkqd.com, 137, RESELLER, 59c49fa9598a0117
+lkqd.net, 137, RESELLER, 59c49fa9598a0117
+mobfox.com, 73669, RESELLER
+mobfox.com, 77777, RESELLER
+nmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER
+openx.com, 539249210, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
+rhythmone.com, 3589813809, RESELLER, a670c89d4a324e47
+rubiconproject.com, 17494, RESELLER, 0bfd66d529a55807
+spotx.tv, 87906, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 87906, RESELLER, 7842df1d2fe2db34
+tappx.com, 11572, RESELLER, 9f375a07da0318ec
+tappx.com, 29598, RESELLER, 9f375a07da0318ec
+thebrave.io, 195641, RESELLER, 5d63663f986f2ace
+rhythmone.com,1508410480,DIRECT,a670c89d4a324e47
+adview.com,96039365,DIRECT
+ucfunnel.com,par-D233672DD744287DCD7E2439B82494AD,RESELLER
+aralego.com,par-D233672DD744287DCD7E2439B82494AD,RESELLER
+ucfunnel.com,par-BE776B39322A364BC7767A69AB99BBD9,RESELLER
+aralego.com,par-BE776B39322A364BC7767A69AB99BBD9,RESELLER
+fyber.com,207310,RESELLER
+pubmatic.com,156835,DIRECT,5d62403b186f2ace
+pubnative.net,1006936,RESELLER
+smartyads.com,368,RESELLER,f25f62e0eb5261ca3
+mobfox.com,60486,RESELLER
+openx.com,540326226,RESELLER,6a698e2ec38604c6
+tappx.com,14039,RESELLER,9f375a07da0318ec
+smaato.com,1100002747,DIRECT,07bcf65f187117b4
+smaato.com,1100004890,DIRECT,07bcf65f187117b4
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
+indexexchange.com, 184738, RESELLER
+openx.com, 537124160, RESELLER, 6a698e2ec38604c6
+openx.com, 539214772, RESELLER, 6a698e2ec38604c6
+smartadserver.com,3232,RESELLER
+pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157153, RESELLER, 5d62403b186f2ace
+xad.com, 767, RESELLER, 81cbf0a75a5e0e9a
+rubiconproject.com, 16990, DIRECT, 0bfd66d529a55807
+Sabio.us, 100026, DIRECT, 96ed93aaa9795702
+xad.com, 1190, RESELLER, 81cbf0a75a5e0e9a
+pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
+advertising.com, 22924, RESELLER
+lemmatechnologies.com, 110,  RESELLER  
+pubmatic.com, 156849,  RESELLER, 5d62403b186f2ace
+pubmatic.com, 157882,  RESELLER, 5d62403b186f2ace
+pubmatic.com, 158189, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 20208, RESELLER, 0bfd66d529a5580
+tremorhub.com, umrto, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 158112, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17296, DIRECT, 0bfd66d529a55807
+engagebdr.com, 10226, RESELLER #banner #video
