@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Input files
+mobileapplist.csv
+mobileioslist.csv
+mobilesamplelist.csv
+example_1.txt
+mobilecrawlerresults.csv
