@@ -1,22 +1,6 @@
-asn1crypto==0.24.0
-certifi==2019.3.9
-cffi==1.12.3
-chardet==3.0.4
-Click==7.0
-cryptography==2.7
-Flask==1.0.2
-idna==2.8
-itsdangerous==1.1.0
-Jinja2==2.10
-MarkupSafe==1.1.0
-numpy==1.16.4
-pandas==0.24.2
-pycparser==2.19
-pyOpenSSL==19.0.0
-python-dateutil==2.8.0
-pytz==2019.1
-requests==2.21.0
-six==1.12.0
-urllib3==1.24.3
-virtualenv==16.6.0
-Werkzeug==0.14.1
+requests
+sys
+csv
+re
+numpy >= 1.16
+pandas >= 0.24
