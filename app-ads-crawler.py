@@ -25,7 +25,7 @@ app-ads.txt info and givens based on https://iabtechlab.com/wp-content/uploads/2
 def get_url(bundle, os):
     url = None
     if os == 'ios':
-        store_url = 'http://itunes.apple.com/us/lookup?id=%s' % bundle
+        store_url = 'http://itunes.apple.com/lookup?id=%s' % bundle
         # Get '1.txt' from itunes store, process result to grab sellerUrl, grab ad.txt from domain/sellerUrl
         try:
             response = requests.get(store_url)
